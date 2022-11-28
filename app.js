@@ -4,3 +4,4 @@ const app = express()
 app.listen(3000)
 
 var n1 = 1
+var n2 = 2
